@@ -8,7 +8,7 @@ categories: Guides
 
 
 
-![عکس نمونه](../assets/img/posts/omr.png)
+
 
 # This is my life line  :
 
