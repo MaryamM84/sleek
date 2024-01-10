@@ -1,26 +1,17 @@
 ---
 layout: post
-title: Markdown Cheatsheet
+title: my website
 summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
 featured-img: aa
 categories: Guides
 ---
 * [ MY WEBSITE ADDRESS](http://www.maryam84.ir/)
-From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<p> در این وب سایت من کار هایی که در طول ترک انجام دادم را توضیح دادم همچنین چند بهخش توضیحات درباره خودم است مثلا دوستانم یا تقویمم یا تفریحاتم و گالریم</p>
 
-##### Table of Contents
-[Headers](#headers)
-[Emphasis](#emphasis)
-[Lists](#lists)
-[Links](#links)
-[Images](#images)
-[Code and Syntax Highlighting](#code)
-[Tables](#tables)
-[Blockquotes](#blockquotes)
-[Inline HTML](#html)
-[Horizontal Rule](#hr)
-[Line Breaks](#lines)
-[Youtube videos](#videos)
+
+![عکس نمونه](../assets/site.png)
+
+
 
 <a name="headers"/>
 ## Headers
